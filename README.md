@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, World! 👋
 
-<!--
-**cdandeniya/cdandeniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chanul, a passionate Software Developer and Serial Entrepreneur. Welcome to my GitHub profile! Here's a bit about me:
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Computer Science and Applied Mathematics & Statistics at Stony Brook University  
+- 💻 Ex-Amazon Software Development Engineer (SDE), worked on Amazon Advertising – INVAR Team  
+- 🚀 Passionate about building scalable software solutions and solving real-world problems through technology  
+
+## Technologies & Skills
+
+- **Programming Languages:** Python, JavaScript, C++, Java, Swift, TypeScript, Rust  
+- **Technologies & Tools:** Node.js, React, Docker, Kubernetes, Redux, MongoDB, PostgreSQL  
+
+## Connect with Me
+
+Feel free to connect with me on LinkedIn or drop me an email. Let's collaborate on exciting projects!
+
+[LinkedIn](https://www.linkedin.com/in/cdandeniya/)
+
+Thanks for stopping by! 😊
+****
