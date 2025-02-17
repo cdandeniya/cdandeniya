@@ -10,8 +10,8 @@ I'm Chanul, a passionate Software Developer and Serial Entrepreneur. Welcome to 
 
 ## Technologies & Skills
 
-- **Programming Languages:** Python, JavaScript, C++, Java, Swift, TypeScript, Rust  
-- **Technologies & Tools:** Node.js, React, Docker, Kubernetes, Redux, MongoDB, PostgreSQL  
+- **Programming Languages:** Python, JavaScript, C++, Java, TypeScript  
+- **Technologies & Tools:** SQL, RStudio, Node.js, React, Docker  
 
 ## Connect with Me
 
