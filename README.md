@@ -5,7 +5,7 @@ I'm Chanul, a passionate Software Developer and Serial Entrepreneur. Welcome to 
 ## About Me
 
 - 🎓 Studying Computer Science and Applied Mathematics & Statistics at Stony Brook University  
-- 💻 Ex-Amazon Software Development Engineer (SDE), worked on Amazon Advertising – INVAR Team  
+- 💻 Ex-Amazon Software Development Engineer (SDE), worked on Amazon Advertising Billing Team  
 - 🚀 Passionate about building scalable software solutions and solving real-world problems through technology  
 
 ## Technologies & Skills
