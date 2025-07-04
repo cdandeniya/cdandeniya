@@ -19,5 +19,5 @@ Feel free to connect with me on LinkedIn or drop me an email. Let's collaborate 
 
 [LinkedIn](https://www.linkedin.com/in/cdandeniya/)
 
-Thanks for stopping by! 😊
+Thanks for stopping by! 
 ****
