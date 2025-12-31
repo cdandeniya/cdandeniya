@@ -11,7 +11,3 @@ Welcome! I’m a passionate Software Developer from New York who loves building 
 - **Languages:** Java, Python, C/C++, TypeScript/JavaScript, SQL  
 - **Frameworks:** React Native (Expo), React/Next.js, Node.js/Express  
 - **Tools:** AWS, Git/GitHub, CI/CD, MySQL, MongoDB, Firebase, Linux, JUnit/Mockito, Pytest  
-
-## Connect
-- Website: https://cdandeniya.vercel.app  
-- LinkedIn: https://www.linkedin.com/in/cdandeniya/
