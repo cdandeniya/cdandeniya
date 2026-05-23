@@ -1,13 +1,40 @@
-# Hey, I’m Chanul 👋
+# Hey, I'm Chanul 👋
 
-Welcome! I’m a passionate Software Developer from New York who loves building impactful, user-focused applications. I enjoy collaborating with others, shipping fast, and learning from different perspectives. I’m especially interested in building user-focused SaaS products with scalable backend systems and AI-powered features.
+I’m a software engineer focused on distributed systems, backend infrastructure, and AI-powered products. I enjoy building systems that scale, move fast, and solve real problems.
 
-## About Me
-- 🚀 Working on some pretty cool projects (currently building **Cruise**, a voice-first navigation app)
-- 🔎 Looking for **2026 software engineering internship** opportunities
-- 🤝 Always open to collaborating — happy to chat
+**Languages:** Java · Python · Rust · TypeScript  
+**Infrastructure:** AWS · Kafka · Redis · PostgreSQL · Docker  
+**Frameworks & Tools:** Spring Boot · FastAPI · Node.js · Linux
 
-## Technical Skills
-- **Languages:** Java, Python, C/C++, TypeScript/JavaScript, SQL  
-- **Frameworks:** React Native (Expo), React/Next.js, Node.js/Express  
-- **Tools:** AWS, Git/GitHub, CI/CD, MySQL, MongoDB, Firebase, Linux, JUnit/Mockito, Pytest  
+<p align="left">
+  <a href="https://linkedin.com/in/cdandeniya">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://chanul.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Things I've Built
+
+### 🚨 Fraud Detection Pipeline
+I built a real-time fraud detection system with sub-50ms scoring latency using Kafka, Redis, PostgreSQL, and Docker. Designed around isolated services and Kafka partitioning for scalability and fault tolerance.
+
+### 📈 NovaTrade
+I built a full-stack stock trading platform with role-based access control, secure REST APIs, and simulated trading workflows.
+
+**Tech:** Java · Spring Boot · MySQL · JSP
+
+🔗 [Repository](https://github.com/cdandeniya/stock-trader)
+
+### 🌐 Chiral Network
+I built a decentralized BitTorrent-style file sharing platform with DHT peer discovery, parallel chunk downloads, and integrity validation.
+
+**Tech:** Rust · TypeScript · Svelte
+
+🔗 [Repository](https://github.com/walrus-chanul-dandeniya/chiral-network)
+
+### 🤖 LLM Fine-Tuning Research
+I led an 8-person team fine-tuning DeepSeek-R1 for blockchain and crypto use cases using LoRA and Unsloth, then built the inference pipeline and REST API layer in Python.
