@@ -20,7 +20,9 @@ I’m a software engineer focused on distributed systems, backend infrastructure
 ## Things I've Built
 
 ### 🚨 Fraud Detection Pipeline
-I built a real-time fraud detection system with sub-50ms scoring latency using Kafka, Redis, PostgreSQL, and Docker.
+Building a real-time fraud detection system with sub-50ms scoring latency using Kafka, Redis, PostgreSQL, and Docker.
+
+---
 
 ### 📈 NovaTrade
 I built a full-stack stock trading platform with RBAC, secure REST APIs, and simulated trading workflows.
@@ -60,9 +62,3 @@ I built a voice-first AI navigation copilot for iPhone using Google Navigation S
 
 ### 🤖 LLM Fine-Tuning Research
 I led an 8-person team fine-tuning DeepSeek-R1 for blockchain and crypto use cases using LoRA and Unsloth, then built the inference and API pipeline in Python.
-
----
-
-Currently exploring distributed systems, AI infrastructure, and high-performance backend engineering.
-
-> Always building.
